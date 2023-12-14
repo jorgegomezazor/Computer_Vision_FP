@@ -8,9 +8,9 @@ The goal of this project is to develop a Python program for pattern detection an
 
 2. **Práctica Final Visión por Ordenador.pdf**: A comprehensive PDF document explaining the code's functions, showcasing frames for demonstration, and presenting the results obtained.
 
-3. **Practica_Final_Jorge_Gomez_Azor_Carlos_Mazuecos_Reillo_RGB.py**: The primary Python code for executing the program. More precise.
+3. **Practica_Final_Jorge_Gomez_Azor_Carlos_Mazuecos_Reillo.py**: The primary Python code for executing the program. More precise.
 
-4. **Practica_Final_Jorge_Gomez_Azor_Carlos_Mazuecos_Reillo_BGR.py**: A second version of the program, which may be less precise and more dependent on lighting conditions.
+4. **Practica_Final_Jorge_Gomez_Azor_Carlos_Mazuecos_Reillo_BGR.py**: A second version of the program, proposed as a possible future implementation since it may be more dependent on the lighting conditions in the environment. It can be found in the "future_implementation" folder.
 
 5. **Demonstration.mp4**: A video providing a visual demonstration of the program's functionality.
 

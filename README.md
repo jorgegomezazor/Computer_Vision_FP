@@ -20,7 +20,7 @@ The goal of this project is to develop a Python program for pattern detection an
 
 4. **Practica_Final_Jorge_Gomez_Azor_Carlos_Mazuecos_Reillo_BGR.py**: A second version of the program, which may be less precise and more dependent on lighting conditions. This version is located in the 'future_implementations' folder.
 
-5. **Demonstration.mp4**: A video providing a visual demonstration of the program's functionality.
+5. **demostracion.mp4**: A video providing a visual demonstration of the program's functionality.
 
 6. **Calibration folder**: Place images of the chessboard captured with your camera in this folder for calibration.
 
